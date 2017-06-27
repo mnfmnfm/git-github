@@ -126,3 +126,4 @@ Practice the skills covered in this workshop with this [training](https://github
 - [GitHub help's list of resouces](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 - in terminal, `git help`
 - [branching, which we'll cover later](https://guides.github.com/introduction/flow/)
+- [a tutorial on branching, which we'll cover later](http://learngitbranching.js.org/)
