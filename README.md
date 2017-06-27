@@ -62,6 +62,10 @@ Next, add individual files by saying `git add <file>` where <file> is the name o
 
 Finally, commit your staged changes with `git commit -m "add a descriptive message here"`. The `-m` means *message* and gives you a place to add a commit message. If you forget the `-m` terminal will automatically open a text editor window for you to give a message. Your commit messages should be brief but descriptive. Aim for fewer than 10 words, but really describe what you achieved since your last commit. If it's easy to write a commit message, you're doing a good job breaking your work into smaller tasks and committing your work often. **COMMIT EARLY, COMMIT OFTEN!**
 
+Here is an example of some commit messages that vary from good to bad:
+
+![](https://imgs.xkcd.com/comics/git_commit.png)
+
 Once you're ready for your local commits to become available online, you need to push the code to the remote repository on GitHub, named `origin`. Start with another `git status` to see how many commits you've completed since you last pushed. Then use the command `git push origin master` to make the remote repo match your local repo.
 
 ![image](https://cloud.githubusercontent.com/assets/6520345/17714099/24641086-63b3-11e6-93f1-ffcfb5a60433.png)
