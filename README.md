@@ -128,6 +128,7 @@ Practice the skills covered in this workshop with this [training](https://github
 ## Additional Resources
 - [git, a simple guide](http://rogerdudler.github.io/git-guide/)
 - [GitHub help's list of resouces](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
+- [How to write good commit messages](https://chris.beams.io/posts/git-commit/)
 - in terminal, `git help`
 - [branching, which we'll cover later](https://guides.github.com/introduction/flow/)
-- [a tutorial on branching, which we'll cover later](http://learngitbranching.js.org/)
+- [another tutorial on branching](http://learngitbranching.js.org/)
